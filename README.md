@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anisha Deshmukh</h1>
 <h3 align="center">Everybody should learn how to program because it teaches you how to think..!</h3>
 
-<img align="right" alt="coding" width="400" src="https://technofall.com/wp-content/uploads/2019/01/IMG_20190103_100642-e1548106411257.jpg">
+<img align="right" alt="coding" width="300" src="https://technofall.com/wp-content/uploads/2019/01/IMG_20190103_100642-e1548106411257.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeshmukh80&label=Profile%20views&color=0e75b6&style=flat" alt="adeshmukh80" /> </p>
 
