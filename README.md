@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, OOP, DSA**
 
-- 💬 Ask me about **Python, C**
+- 💬 Ask me about **Python, C++**
 
 - 📫 How to reach me **anishadeshmukh6@gmail.com**
 
