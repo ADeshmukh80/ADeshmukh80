@@ -3,6 +3,8 @@
 
 <img align="right" alt="coding" width="300" src="https://technofall.com/wp-content/uploads/2019/01/IMG_20190103_100642-e1548106411257.jpg">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeshmukh80&label=Profile%20views&color=0e75b6&style=flat" alt="adeshmukh80" /> </p>
+
 - 🌱 I’m currently learning **Python, OOP, DSA**
 
 - 💬 Ask me about **Python, C++**
