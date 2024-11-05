@@ -25,6 +25,6 @@
 
 ### Holopin Badges
 <a href="https://holopin.io/@anisha_80">
-    <img src="https://holopin.me/anisha_80" alt="@anisha_80's Holopin badges" />
+    <img src="https://holopin.me/anisha_80" alt="@anisha_80's Holopin badges"/>
 </a>
 
