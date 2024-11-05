@@ -24,5 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeshmukh80&" alt="adeshmukh80" /></p>
 
 ### Holopin Badges
-Check out my Holopin badge board [here](https://www.holopin.io/@anisha_80#)
+<a href="https://holopin.io/@anisha_80">
+    <img src="https://holopin.me/anisha_80" alt="@anisha_80's Holopin badges" />
+</a>
 
