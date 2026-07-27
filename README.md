@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Anisha Deshmukh</h1>
 
 <h3 align="center">
@@ -196,4 +196,4 @@ I love turning ideas into real applications and believe that every bug teaches s
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=adeshmukh80&label=Profile+Views&style=for-the-badge"/>
 </p>
-```
+
